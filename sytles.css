@@ -1,0 +1,7 @@
+.features article {
+	padding: 1.75em 1.75em 0.1em 1.75em;
+	background-color: #353849;
+	border-radius: 5px;
+	margin: 1.5em 0em 1.5em 1.5em;
+	width: calc(30% - 1.5em);
+}
